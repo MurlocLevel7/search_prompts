@@ -1,2 +1,2 @@
 # search_prompts
-Small package for searching promots on Hugging Face
+Small package for searching prompts on Hugging Face
